@@ -48,3 +48,5 @@ body.dark .bottom-nav{background:rgba(17,24,39,.80)}.nav-btn{padding:10px 4px;fo
 .related-wrap{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
 .related-btn{padding:9px 11px;border-radius:999px;font-size:12px;box-shadow:none;border:1px solid var(--line)}
 .freq{color:var(--yellow);font-weight:950;letter-spacing:.08em}
+
+.eng-box{border-left:5px solid #2563eb}
